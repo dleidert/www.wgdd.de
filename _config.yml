@@ -13,7 +13,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.17.2
-minimal_mistakes_skin: "neon"
+#minimal_mistakes_skin: "neon"
 # Outputting
 permalink: /:year/:month/:title/
 paginate: 10 # amount of posts to show
