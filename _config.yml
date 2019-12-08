@@ -63,7 +63,6 @@ collections:
     order:
       - debian.md
       - packages.md
-    lang: "en"
   photography:
     output: true
     permalink: /:collection/:path/
@@ -105,7 +104,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      lang: "en"
       sidebar:
         nav: "debian"
   # _about
