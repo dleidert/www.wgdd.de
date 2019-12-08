@@ -9,20 +9,6 @@ main:
   - title: "Privat"
     url: /private/
 
-debian:
-  - title: "Debian"
-    url: /debian/
-    description: "My involvement with Debian"
-  - title: "Hardware"
-    url: /debian/hardware/
-    description: "All the Hardware I use with Debian/GNU Linux"
-  - title: "Packages"
-    url: /debian/packaging/
-    description: "Read more about my Debian activities"
-  - title: "Blog"
-    url: /debian/blog/
-    description: "Check out all Posts regarding Debian"
-
 about:
   - title: "Impressum"
     url: /legal/

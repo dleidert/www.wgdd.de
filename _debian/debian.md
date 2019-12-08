@@ -1,13 +1,12 @@
 ---
 permalink: /debian/
-title: "My Debian activities"
+title: "Meine Debian Aktivitäten"
 description: >-
-  I'm an active Debian user since 2002 and an official Debian Developer since
-  2012. This site is about about my Debian activities and Debian specifics to
-  my hardware.
+  Seit 2002 Debian-Nutzer und seit 2012 Debian Entwickler
 ---
 
-I'm using Debian since 2002. It started when I was forced to use Linux in my
-computational chemistry class at university.
+Ich bin 2002 mit der ersten Debian-Installation gestartet und seitdem dabei
+geblieben. Seit 2012 bin ich offizieller Debian Entwickler. Meine
+Hauptinteressen ...
 
 <!-- vim: set tw=79 ts=2 sw=2 ai si et: -->
