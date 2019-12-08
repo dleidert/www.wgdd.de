@@ -52,9 +52,9 @@ footer:
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/join/dleidert"
     - label: "Impressum"
-      url: /legal/
+      url: /impressum/
     - label: "Datenschutz"
-      url: /privacy/
+      url: /datenschutz/
 
 collections:
   debian:
@@ -70,13 +70,13 @@ collections:
       - nature.md
       - portrait.md
       - macro.md
-  about:
+  ueber:
     output: true
     permalink: /:path/
     order:
-      - about.md
-      - legal.md
-      - privacy.md
+      - ueber.md
+      - impressum.md
+      - datenschutz.md
 
 defaults:
   # _posts
@@ -106,15 +106,15 @@ defaults:
       author_profile: true
       sidebar:
         nav: "debian"
-  # _about
+  # _ueber
   - scope:
       path: ""
-      type: about
+      type: ueber
     values:
       layout: single
       author_profile: false
       sidebar:
-        nav: "about"
+        nav: "ueber"
   # other collections
   - scope:
       path: ""

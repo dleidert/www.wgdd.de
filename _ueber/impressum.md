@@ -1,5 +1,6 @@
 ---
 title: Impressum
+description: Seitenimpressum
 toc: true
 toc_sticky: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: Datenschutzerklärung
+description: Datenschutzerklärung des Betreibers
 toc: true
 toc_sticky: true
 ---
@@ -9,7 +10,7 @@ Stand: {{ page.last_modified_at | default: page.date  | date: "%d.%m.%Y" }}
 Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der
 EU-Datenschutzgrundverordnung (DSGVO), ist der [Betreiber] der Website.
 
-[Betreiber]: {% link _about/legal.md %}
+[Betreiber]: {% link _ueber/impressum.md %}
 
 ## Ihre Betroffenenrechte
 

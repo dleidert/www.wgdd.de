@@ -9,11 +9,11 @@ main:
   - title: "Privat"
     url: /private/
 
-about:
+ueber:
   - title: "Impressum"
-    url: /legal/
+    url: /impressum/
   - title: "Datenschutz"
-    url: /privacy/
+    url: /datenschutz/
 
 blog:
   - title: "Blog"
