@@ -2,7 +2,7 @@
 lang: de
 title: Waldfunde - Buchen-Streckfuß
 category:
-  - waldfune
+  - waldfunde
 tags:
   - pics
   - heide
