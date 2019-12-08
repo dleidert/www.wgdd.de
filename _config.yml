@@ -63,13 +63,13 @@ collections:
     order:
       - debian.md
       - packages.md
-  photography:
+  fotografie:
     output: true
     permalink: /:collection/:path/
     order:
-      - nature.md
+      - natur.md
       - portrait.md
-      - macro.md
+      - makro.md
   ueber:
     output: true
     permalink: /:path/
@@ -118,7 +118,7 @@ defaults:
   # other collections
   - scope:
       path: ""
-      type: photography
+      type: fotografie
     values:
       layout: single
       author_profile: true

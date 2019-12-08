@@ -1,8 +1,8 @@
 ---
 title: Fotografie
 layout: collection
-permalink: /photography/
-collection: photography
+permalink: /fotografie/
+collection: fotografie
 entries_layout: grid
 classes: wide
 sort_by: "order"
