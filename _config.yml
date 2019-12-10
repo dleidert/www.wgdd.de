@@ -1,19 +1,17 @@
+url: "https://www.wgdd.de"
 title: "[erfahrungen, meinungen, halluzinationen]"
 email: webmaster@wgdd.de
 description: >-
-  
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ein private Webseite mit Blog über Software, Fotografie, Aquaristik und
+  alles, was mich sonst noch beschäftigt.
 locale: "de"
 github_username: dleidert
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.17.2
-#minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "default"
 # Outputting
 permalink: /:year/:month/:title/
 paginate: 10 # amount of posts to show
