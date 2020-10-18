@@ -5,6 +5,7 @@ ruby RUBY_VERSION
 #gem "jekyll-algolia"
 #gem "jemoji"
 gem "jekyll", "~> 3.5"
+gem "kramdown-parser-gfm"
 #gem "jekyll-data"
 gem "jekyll-feed"
 gem "jekyll-gist"
