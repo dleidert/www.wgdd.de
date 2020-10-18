@@ -6,6 +6,8 @@ main:
     url: /debian/
   - title: "Fotografie"
     url: /fotografie/
+  - title: "Aquaristik"
+    url: /aquaristik/
   - title: "Privat"
     url: /private/
 

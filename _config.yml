@@ -68,6 +68,12 @@ collections:
       - natur.md
       - portrait.md
       - makro.md
+  aquaristik:
+    output: true
+    permalink: /:collection/:path/
+    order:
+      - danio/margaritatus.md
+      - danio/erythromicron.md
   ueber:
     output: true
     permalink: /:path/
@@ -116,10 +122,16 @@ defaults:
   # other collections
   - scope:
       path: ""
-      type: fotografie
+#      type: fotografie
     values:
       layout: single
       author_profile: true
+#  - scope:
+#      path: ""
+#      type: aquaristik
+#    values:
+#      layout: single
+#      author_profile: true
 
 category_archive:
   type: liquid
