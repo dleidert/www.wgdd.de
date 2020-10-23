@@ -20,6 +20,7 @@ timezone: Europe/Berlin
 
 include:
   - _pages
+  - .htaccess
 
 author:
   name: "Daniel Leidert"

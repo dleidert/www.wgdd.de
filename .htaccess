@@ -1,0 +1,8 @@
+RewriteEngine On
+
+#RewriteCond %{REQUEST_URI} ^/20\d+/.*$ [AND]
+RewriteCond %{DOCUMENT_ROOT}/(.*) !-f
+RewriteCond %{REQUEST_URI} ^/2005/06/experimental-bluefish-packages\.html$ [OR]
+RewriteCond %{REQUEST_URI} ^/2005/06/winefish-package-moved-to-unstable\.html$ [OR]
+RewriteCond %{REQUEST_URI} ^/2005/08/taking-over-bluefish-maintenance-for\.html$ [OR]
+RewriteRule ^(.*)$ https://www.wgdd.org/$1 [L,R=301]
