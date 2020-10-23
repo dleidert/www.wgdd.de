@@ -120,6 +120,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: true
+      toc_sticky: true
       sidebar:
         nav: "ueber"
   # other collections
