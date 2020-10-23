@@ -6,18 +6,21 @@ ruby RUBY_VERSION
 #gem "jemoji"
 gem "jekyll", "~> 3.5"
 gem "kramdown-parser-gfm"
-#gem "jekyll-data"
-gem "jekyll-feed"
-gem "jekyll-gist"
-gem "jekyll-include-cache"
-gem "jekyll-last-modified-at"
-gem "jekyll-optional-front-matter"
-gem "jekyll-paginate"
-gem "jekyll-redirect-from"
-gem "jekyll-relative-links"
-gem "jekyll-remote-theme"
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
+
+group :jekyll_plugins do
+  #gem "jekyll-data"
+  gem "jekyll-feed"
+  gem "jekyll-gist"
+  gem "jekyll-include-cache"
+  gem "jekyll-last-modified-at"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
+  gem "jekyll-relative-links"
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end
 
 group :test do
   gem "html-proofer"
