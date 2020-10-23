@@ -96,6 +96,7 @@ defaults:
       comments: true
       share: true
       related: true
+      lang: "de"
   # _pages
   - scope:
       path: "_pages"
