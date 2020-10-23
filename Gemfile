@@ -8,6 +8,7 @@ gem "jekyll", "~> 3.5"
 gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
+  gem "jekyll-compose"
   #gem "jekyll-data"
   gem "jekyll-feed"
   gem "jekyll-gist"

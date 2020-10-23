@@ -134,6 +134,22 @@ defaults:
 #      layout: single
 #      author_profile: true
 
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      layout:
+      description: >
+
+      category:
+      - 
+      - 
+      tags:
+      - 
+      - 
+      published: false
+      redirect_from:
+
 category_archive:
   type: liquid
   path: /categories/
@@ -147,6 +163,7 @@ feed:
     - planet-debian
 
 plugins:
+  - jekyll-compose
 #  - jekyll-data
   - jekyll-feed
   - jekyll-gist
