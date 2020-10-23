@@ -5,4 +5,29 @@ RewriteCond %{DOCUMENT_ROOT}/(.*) !-f
 RewriteCond %{REQUEST_URI} ^/2005/06/experimental-bluefish-packages\.html$ [OR]
 RewriteCond %{REQUEST_URI} ^/2005/06/winefish-package-moved-to-unstable\.html$ [OR]
 RewriteCond %{REQUEST_URI} ^/2005/08/taking-over-bluefish-maintenance-for\.html$ [OR]
+RewriteCond %{REQUEST_URI} ^/2005/10/debian-package-repository-at\.html
+RewriteCond %{REQUEST_URI} ^/2006/04/repository-key-expired\.html
+RewriteCond %{REQUEST_URI} ^/2006/05/first-official-chemical-mime-data\.html
+RewriteCond %{REQUEST_URI} ^/2006/05/next-rc-0193-for-chemical-mime-data\.html
+RewriteCond %{REQUEST_URI} ^/2006/09/chemistry-packages-accepted-in-debian\.html
+RewriteCond %{REQUEST_URI} ^/2006/09/gtkextra-20-accepted-into-debian\.html
+RewriteCond %{REQUEST_URI} ^/2006/10/my-harddrive-says-and-im-off-for-short\.html
+RewriteCond %{REQUEST_URI} ^/2006/10/repository-key-expired-ii\.html
+RewriteCond %{REQUEST_URI} ^/2006/11/solved-evolution-mail-view-always\.html
+RewriteCond %{REQUEST_URI} ^/2007/02/ubuntu-packaging-support-will-be-stopped\.html
+RewriteCond %{REQUEST_URI} ^/2007/02/chemical-mime-data-0194-released\.html
+RewriteCond %{REQUEST_URI} ^/2007/02/let-file1-recognize-chemical-mime-type\.html
+RewriteCond %{REQUEST_URI} ^/2007/02/let-file1-recognize-chemical-mime-type_15\.html
+RewriteCond %{REQUEST_URI} ^/2007/05/sarge-etch-transition\.html
+RewriteCond %{REQUEST_URI} ^/2007/05/etch-sftp-and-rssh-shell\.html
+RewriteCond %{REQUEST_URI} ^/2007/12/gurlchecker-accepted-into-debian\.html
+RewriteCond %{REQUEST_URI} ^/2007/06/gabedit-drawxtl-and-libint-are-on-their\.html
+RewriteCond %{REQUEST_URI} ^/2007/10/repository-key-expired-iii\.html
+RewriteCond %{REQUEST_URI} ^/2007/11/svn-buildpackage-debian-only-and-dpatch\.html
+RewriteCond %{REQUEST_URI} ^/2007/11/experiences-with-fglrx-driver-8423\.html
+RewriteCond %{REQUEST_URI} ^/2007/11/gnu-make-vs-bsd-make-practical-problem\.html
+RewriteCond %{REQUEST_URI} ^/2007/11/ldflags-and\.html
+RewriteCond %{REQUEST_URI} ^/2007/12/fyi-docbook-defguide-2017-ready-sun\.html
+RewriteCond %{REQUEST_URI} ^/2007/12/docbook-defguide-solving-performance\.html
+RewriteCond %{REQUEST_URI} ^/2007/12/bluefish-unstable-packages-ready-for\.html
 RewriteRule ^(.*)$ https://www.wgdd.org/$1 [L,R=301]
