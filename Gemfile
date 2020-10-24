@@ -6,6 +6,8 @@ ruby RUBY_VERSION
 #gem "jemoji"
 gem "jekyll", "~> 3.5"
 gem "kramdown-parser-gfm"
+gem "classifier-reborn"
+gem "gsl"
 
 group :jekyll_plugins do
   gem "jekyll-compose"
