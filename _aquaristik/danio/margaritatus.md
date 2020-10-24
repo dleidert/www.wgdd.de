@@ -9,11 +9,11 @@ die ich gehalten habe und noch immer halte und auch züchte.
 
 ## Aussehen
 
-Dabei handelt es sich um einen ca. 2-3&nbsp;cm großen (kleinen) Fisch, der bei
+Es handelt es sich um einen ca. 2-3&nbsp;cm großen (kleinen) Fisch, der bei
 guter Haltung und wenn er sich wohlfühlt eine schöne dunkle Grundfärbung mit
 gelb bis silber schimmernden Sprenkeln (daher auch manchmal die Bezeichnung
-*Microrasbora sp.  "Galaxy"*) zeigt. Die Flossen zeigen Streifen aus schwarz
-und einem leuchtenden rot-orange. In der Afterflosse wirkt das Schwarz
+*Microrasbora sp. "Galaxy"*) zeigt. Die Flossen zeigen Streifen aus schwarz
+und einem leuchtenden orange-rot. In der Afterflosse wirkt das Schwarz
 teilweise auch netzartig. Beim Weibchen ist die Afterflosse eher transparent
 mit einem schwachen organge-farbenen Streifen. Allerdings können auch Männchen
 dieses Merkmal zeigen, so dass die Geschlechtsbestimmung nicht immer eindeutig
@@ -82,40 +82,43 @@ die zahllosen *Neocaridina davidi* Varianten (**Rückenstrichgarnele**, **Red
 Fire**, **Yellow Fire**, etc.) bieten sich regelrecht an. Auch die **Giftgrüne
 Zwerggarnele** (*Caridina cf.  babaulti*) sollte gut funcktionieren. Ich habe
 sie zudem mit Flossensaugern und Panda-Saugbarben gehalten. Aktuell werden sie
-im [Gesellschaftsbecken][Lido120] mit dem sehr ähnlichen Quergestreiften
-Zwergbärbling sowie Smaragd-Rasboras gepflegt. Auch Zwergfadenfische, kleinere
-Fadenfische wie der Marmor-Fadenfisch, Kampffische, Dornaugen,
-Ohrgitterharnischwelse sind nach meiner Erfahrung völlig unproblematisch.
+im [Gesellschaftsbecken][Lido120] mit dem sehr ähnlichen [Quergestreiften
+Zwergbärbling][QGSZB], Smaragd-Rasboras und Braunen Otos gepflegt. Auch
+Zwergfadenfische, kleinere Fadenfische wie der Marmor-Fadenfisch, Kampffische,
+Dornaugen, Ohrgitterharnischwelse sind nach meiner Erfahrung völlig
+unproblematisch.
 
 Mit großen Schwarmfischen würde ich sie nicht vergesellschaften. Und auch nicht
 mit Guppys, auch keinen Endler-Guppys, da diese zu lebhaft sind.
 
 [Lido120]: https://invalid.to
+[QGSZB]: {% link _aquaristik/danio/erythromicron.md %}
 
 ## Zucht
 
-Die Zucht gestaltet sich eher einfach, wenn man ein paar Umstände
-berücksichtigt. Der Fisch zählt zu den Freilaicher und laicht permanent
-bevorzugt über feinfiedrigen Pflanzen und Moosen ab. Leider ist der Fisch auch
-ein ausgesprochener Laichräuber und macht auch vor den eigenen Larven nicht
-halt. Man muss den Laich und die Brut also für einige Zeit schützen bzw.
+Die Zucht gestaltet sich einfach, wenn man ein paar Umstände berücksichtigt.
+Der Fisch zählt zu den Freilaichern und laicht permanent und bevorzugt über
+feinfiedrigen Pflanzen und Moosen ab. Leider ist der Fisch auch ein
+ausgesprochener Laichräuber und macht auch vor den eigenen Eiern und Larven
+nicht halt. Man muss den Laich und die Brut also für einige Zeit schützen bzw.
 absammeln. Zu den bevorzugten Zuchtmethoden zählen
 
-  * die Dauerhaltung im Keilbecken,
+  * die Dauerhaltung im [Keilbecken](http://www.aquarienbastelei.de/?page_id=251),
   * die temporäre Haltung in gestalteten Laichbecken,
   * der Einsatz von Laichfallen oder
   * der Einsatz von Süßwassertang.
 
 Der Nachwuchs kann mit Staubfutter, Nubil Fluid und, wenn vorhanden,
 Rettichtierchen aufgezogen werden. Die beiden erstgenannten reichen aber
-völlig. Häufig finden die Tiere in einem gut eingefahrenen Aquarium bereits
-gute Nahrungsgrundlagen.
+völlig. Häufig finden die Tiere in einem gut eingefahrenen Aquarium mit
+feinfiedrigen Pflanzen und Moosen bereits gute Nahrungsgrundlagen.
 
 ### Keilbecken
 
 Die Becken erklären sich von selbst und sind für Dauer- und Freilaicher wie den
 Perlhuhnbärbling gut geeignet. Ich habe leider nicht den Platz, würde diese
-Variante aber ansonsten gerne ausprobieren.
+Variante aber ansonsten gerne ausprobieren. Die Beschaffung ist leider nicht so
+einfach, da die Becken nicht fertig angeboten werden.
 
 ### Laichbecken
 
@@ -132,7 +135,7 @@ ein weiteres Becken gegeben werden muss.
 Dies ist meine Methode. Meine Laichfalle lässt sich sehr einfach und mit wenig
 finanziellen Aufwand nachbauen. Es finden sich regelmäßig Eier und geschlüpfte
 Larven darin wieder, die ich mittels Pipette in das Aufwuchsbecken überführe.
-Das Prinzip beruht darauf.
+Das Prinzip ...
 
 immer wieder herausgefangen werden muss, setze 
 
