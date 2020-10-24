@@ -13,13 +13,14 @@ intro:
     ## Neue Location, neue Aufmachung
     
     Da ich bei [Blogger](https://www.blogger.com) weder Einfluss noch Einsicht
-    in die Verwendung der generierten Daten habe und zudem endlos Skripte in
-    den Quellcode jeder Seite eingebaut sind, habe ich mich entschieden, meine
+    in die Verwendung der generierten Daten habe und zudem viele Skripte in den
+    Quellcode jeder Seite eingebaut sind, habe ich mich entschieden, meine
     Seiten auf meinen Server zurückzuholen. Ich verzichte bewusst auf
     Werbeeinblendungen oder Affiliate Links. Wenn die Inhalte gefallen, könnt
     ihr mich via [<i class="fab fa-fw fa-patreon" aria-hidden="true"></i>
-    Patreon](https://www.patreon.com/dleidert) unterstützen und dazu beitragen,
-    dass die Technik bezahlt wird.
+    Patreon](https://www.patreon.com/dleidert) oder [<i class="fab fa-fw
+    fa-paypal" aria-hidden="true"></i> Paypal](https://paypal.me/dleidert)
+    unterstützen und dazu beitragen, dass die Technik bezahlt wird.
 
 ---
 
